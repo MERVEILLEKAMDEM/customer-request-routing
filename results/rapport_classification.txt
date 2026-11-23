@@ -1,0 +1,12 @@
+                   precision    recall  f1-score   support
+
+   carte_bancaire      0.713     0.980     0.825       400
+credit_immobilier      0.897     0.963     0.929       400
+epargne_placement      0.786     0.680     0.729       400
+           fraude      0.775     0.560     0.650       400
+   gestion_compte      0.780     0.665     0.718       400
+reclamation_frais      0.861     0.958     0.907       400
+
+         accuracy                          0.801      2400
+        macro avg      0.802     0.801     0.793      2400
+     weighted avg      0.802     0.801     0.793      2400

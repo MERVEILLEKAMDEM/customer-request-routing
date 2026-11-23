@@ -1,0 +1,12 @@
+{
+  "validation_croisee_par_intention": {
+    "Naive Bayes": 0.793,
+    "Régression logistique": 0.777,
+    "SVM linéaire": 0.766
+  },
+  "test_manuel_48_messages": {
+    "Naive Bayes": 0.87,
+    "Régression logistique": 0.894,
+    "SVM linéaire": 0.916
+  }
+}

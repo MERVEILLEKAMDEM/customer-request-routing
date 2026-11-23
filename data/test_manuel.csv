@@ -1,0 +1,49 @@
+message,categorie
+"Bonjour, le distributeur a gardé ma CB hier soir",carte_bancaire
+"Impossible de payer chez Carrefour, ma carte est refusée",carte_bancaire
+"J'ai perdu ma carte au marché, pouvez-vous la bloquer ?",carte_bancaire
+"je voudrais un plafond plus élevé pour mes vacances",carte_bancaire
+"Je n'ai jamais reçu le code de ma nouvelle carte",carte_bancaire
+"ma carte est cassée en deux, comment en avoir une autre",carte_bancaire
+"Le sans contact ne fonctionne pas avec ma carte",carte_bancaire
+"Est-il possible de passer à une carte Gold ?",carte_bancaire
+"Nous cherchons à financer l'achat d'une maison à Nantes",credit_immobilier
+"Quel est votre meilleur taux pour emprunter 250 000 € ?",credit_immobilier
+"Le notaire attend toujours l'offre de prêt",credit_immobilier
+"Peut-on renégocier le taux de notre emprunt ?",credit_immobilier
+"Je veux rembourser une partie de mon prêt immobilier par avance",credit_immobilier
+"combien puis-je emprunter avec 3000 € de salaire ?",credit_immobilier
+"Avez-vous reçu les pièces pour mon dossier de prêt ?",credit_immobilier
+"Je voudrais baisser mes mensualités de crédit",credit_immobilier
+"Vous m'avez facturé 30 € de frais sans raison",reclamation_frais
+"Je ne comprends pas ces agios sur mon relevé",reclamation_frais
+"Merci de rembourser la commission d'intervention de mars",reclamation_frais
+"La cotisation de ma carte a été prélevée deux fois",reclamation_frais
+"Ces frais de tenue de compte sont abusifs",reclamation_frais
+"Je conteste la pénalité appliquée sur mon compte",reclamation_frais
+"Pourquoi des frais de rejet alors que le prélèvement est passé ?",reclamation_frais
+"Je souhaite déposer une réclamation pour des frais bancaires",reclamation_frais
+"Un achat de 400 € sur un site chinois, ce n'est pas moi !",fraude
+"J'ai donné mes codes à un faux conseiller au téléphone",fraude
+"Mon compte a été vidé cette nuit",fraude
+"Quelqu'un a ouvert un crédit à mon nom",fraude
+"J'ai cliqué sur un mail qui ressemblait à la banque",fraude
+"Il y a trois retraits que je ne reconnais pas",fraude
+"Un virement de 2000 € est parti sans mon accord",fraude
+"je crois qu'on m'a volé mes identifiants bancaires",fraude
+"Je voudrais ouvrir une assurance vie",epargne_placement
+"Quel placement pour 10 000 € sans risque ?",epargne_placement
+"Je veux mettre de côté chaque mois pour ma fille",epargne_placement
+"Comment fonctionne le PEA ?",epargne_placement
+"Quel est le rendement du livret A actuellement ?",epargne_placement
+"Je souhaite investir dans des actions",epargne_placement
+"Je veux fermer mon PEL",epargne_placement
+"Pouvez-vous me conseiller pour préparer ma retraite ?",epargne_placement
+"J'ai une nouvelle adresse à Bordeaux",gestion_compte
+"Envoyez-moi mon RIB s'il vous plaît",gestion_compte
+"L'appli affiche une erreur à la connexion",gestion_compte
+"Comment ajouter mon propriétaire comme bénéficiaire ?",gestion_compte
+"Je veux fermer le compte que j'ai avec mon ex",gestion_compte
+"J'ai changé de numéro de portable",gestion_compte
+"Où trouver mes relevés de l'an dernier ?",gestion_compte
+"Je voudrais donner procuration à mon fils",gestion_compte
