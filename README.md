@@ -1,5 +1,7 @@
 # 📨 Customer Request Routing – routage automatique des messages clients (NLP)
 
+[![Tests](https://github.com/MERVEILLEKAMDEM/customer-request-routing/actions/workflows/tests.yml/badge.svg)](https://github.com/MERVEILLEKAMDEM/customer-request-routing/actions)
+
 Une banque reçoit des milliers de messages par jour. Ce projet les **classe automatiquement en 6 catégories** et les envoie à la bonne équipe. Les fraudes passent en **priorité P1**.
 
 ```text
