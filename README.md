@@ -51,4 +51,4 @@ python -m pytest -q
 **Pistes** : remplacer TF-IDF par des embeddings de phrases (CamemBERT) et entraîner sur de vrais messages anonymisés. Un LLM pourrait aussi pré-rédiger la réponse au client.
 
 ---
-Pascale KAMDEM · Data & IA · [LinkedIn](https://www.linkedin.com/in/merveille-kamdem-562aa0284/)
+Pascale KAMDEM · Data & IA · [LinkedIn](https://www.linkedin.com/in/pascale-merveille-kamdem-562aa0284/)
