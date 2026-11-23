@@ -23,7 +23,7 @@ MOTS_URGENTS = re.compile(r"urgent|vite|piraté|arnaque|bloqu|vol|perdu|inconnu"
 
 def router(message: str, modele=None) -> dict:
     modele = modele or joblib.load(MODELE)
-    cat = modele.predict([message])[0]
+    cat = str(modele.predict([message])[0])
     urgent = cat == "fraude" or bool(MOTS_URGENTS.search(message))
     return {
         "categorie": cat,
